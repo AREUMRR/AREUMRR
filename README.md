@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AREUMRR
-- 👀 I’m interested in Java...
+
 - 🌱 I’m currently learning Java...
 
 <!---
